@@ -12,3 +12,8 @@ My first DevOps project: Saved a production server!
 ## Server Achievements
 - Launched mysite.local with Nginx
 - Learned virtual servers
+
+## Flask Kingdom
+- Built a Flask app with reverse proxy via Nginx on flask.local.
+- Gamified with HTML templates and quests.
+- Trophy: Pixel Crown for interactive site.
